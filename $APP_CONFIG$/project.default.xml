@@ -30,82 +30,6 @@
       <component name="NamedScopeManager">
         <order />
       </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="witoldsz" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>Abstraction issuesJava</id>
-              </State>
-              <State>
-                <id>CSS</id>
-              </State>
-              <State>
-                <id>Code style issuesJava</id>
-              </State>
-              <State>
-                <id>FreeMarker inspections</id>
-              </State>
-              <State>
-                <id>GeneralScala</id>
-              </State>
-              <State>
-                <id>Groovy</id>
-              </State>
-              <State>
-                <id>ImportsJava</id>
-              </State>
-              <State>
-                <id>Inheritance issuesJava</id>
-              </State>
-              <State>
-                <id>Invalid elementsCSS</id>
-              </State>
-              <State>
-                <id>JBoss Seam issues</id>
-              </State>
-              <State>
-                <id>JSP Inspections</id>
-              </State>
-              <State>
-                <id>Java</id>
-              </State>
-              <State>
-                <id>JavaFX</id>
-              </State>
-              <State>
-                <id>Less</id>
-              </State>
-              <State>
-                <id>Logging issuesJava</id>
-              </State>
-              <State>
-                <id>OSGi</id>
-              </State>
-              <State>
-                <id>Potentially confusing code constructsGroovy</id>
-              </State>
-              <State>
-                <id>Sass/SCSS</id>
-              </State>
-              <State>
-                <id>Scala</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>Ant inspections</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -121,10 +45,16 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Groovy" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <method />
+        </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
@@ -204,9 +134,21 @@
           <listeners />
           <method />
         </configuration>
-        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-        </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
