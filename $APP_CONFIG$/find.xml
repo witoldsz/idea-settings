@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'wallet-parent'" />
     <option name="defaultScopeName" value="Project 'wallet-parent'" />
     <option name="SEARCH_SCOPE" value="Project 'wallet-parent'" />
-    <option name="FILE_MASK" value="*.MF" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +15,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.MF</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
