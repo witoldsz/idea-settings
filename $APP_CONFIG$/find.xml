@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project 'wallet-parent'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'wallet-parent'" />
+    <option name="FILE_MASK" value="*.j*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +18,7 @@
       <mask>*.mxml</mask>
       <mask>*.MF</mask>
       <mask>pom.xml</mask>
+      <mask>*.j*</mask>
     </recentFileMasks>
   </component>
 </application>
