@@ -20,6 +20,9 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="ECMAScript 6" />
+      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
@@ -45,8 +48,11 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+        <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="JavaScriptLanguageLevel" value="ES6" />
+        <property name="JavaScriptPreferStrict" value="true" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
