@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt F1" />
+    <keyboard-shortcut first-keystroke="control alt 1" />
+  </action>
+</keymap>
