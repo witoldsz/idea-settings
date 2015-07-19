@@ -20,13 +20,17 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+        <option name="PARALLEL_COMPILATION" value="true" />
+      </component>
       <component name="JavaScriptLibraryMappings">
         <includedPredefinedLibrary name="ECMAScript 6" />
       </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="mavenHome" value="/opt/apache-maven" />
           </MavenGeneralSettings>
         </option>
       </component>
@@ -48,7 +52,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+        <property name="settings.editor.selected.configurable" value="project.propCompiler" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="JavaScriptLanguageLevel" value="ES6" />
         <property name="JavaScriptPreferStrict" value="true" />
